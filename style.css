@@ -1,0 +1,397 @@
+.main{
+    width: 100%;
+    height: 4230px;
+}
+.header{
+    width: 100%;
+    height: 100px;
+}
+body{
+    margin: 0;
+}
+.logo{
+    width: 5%;
+    height: 80px;
+    float: left;
+}
+.menu{
+    width: 45%;
+    height: 80px;
+    float: left;
+}
+.sign{
+    width: 50%;
+    height: 80px;
+    float: left;
+    padding-top: 20px;
+}
+.lo{
+    width: 49px;
+    height: 49px;
+    padding-left: 40px;
+    padding-top: 26px;
+}
+.flex{
+    display: flex;
+    list-style-type: none;
+    padding-left: 48px;
+    padding-top: 25px;
+    font-weight: 700;
+    font-size:16px;
+
+}
+li{
+    margin-right: 20px;
+}
+.find{
+    margin-left: 350px;
+    background-color: transparent;
+    border-color: transparent;
+    font-weight: 600;
+    margin-top: 17px;
+}
+.signin{
+    margin-left: 60px;
+    margin-top: 17px;
+    border-radius: 20px;
+    width: 85px;
+    height: 30px;
+    font-weight: 600;
+    background-color: transparent;
+}
+.join{
+    margin-left: 10px;
+    margin-top: 17px;
+    border-radius: 20px;
+    width: 85px;
+    height: 30px;
+    font-weight: 600;
+    background-color: black;
+    color: white;
+}
+.fa-solid{
+    font-size: large;
+    width: 40px;
+}
+.hh{
+    border: 2px solid #eaeaea;
+}
+.cof{
+    margin-left: 40px;
+    width: 95%;
+    height: 600px;
+    margin-top: 40px;
+    margin-right: 40px;
+}
+.ic{
+    width: 50%;
+    height: 600px;
+    float: left;
+}
+.cc{
+    width: 50%;
+    height: 600px;
+    float: left;
+    background-color: #9e2240;
+}
+.icc{
+    width: 100%;
+    height: 100%;
+
+} 
+.heading{
+    text-align: center;
+    padding-top: 150px;
+    font-size: 50px;
+    color: white;
+    font-weight: 600;
+}
+.para{
+    text-align: center;
+    color: white;
+    font-size: 28px;
+}
+.od{
+    color:white;
+    border-radius: 20px;
+    background-color: #9e2240;
+    border-color: white;
+    width: 115px;
+    height: 35px;
+    margin-left: 300px;
+    font-weight: 600;
+    font-size: medium;
+
+}
+.treat{
+    width: 95%;
+    height: 420px;
+    margin-top: 40px;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+.sen{
+    width: 50%;
+    height: 420px;
+    background-color:#006241;
+    float: left;
+}
+.emg{
+    width: 50%;
+    height: 420px;
+    float: left;
+}
+.header2{
+    text-align: center;
+    color: white;
+    padding-top: 70px;
+    font-weight: 600;
+    font-size: 26px;
+    height: auto;
+}
+.para2{
+    text-align: center;
+    color: white;
+    font-size: 20px;
+    padding-top: 5px;
+    line-height: 1.5;
+
+}
+.now{
+    color:white;
+    border-radius: 20px;
+    background-color:#006241;
+    border-color: white;
+    width: 115px;
+    height: 35px;
+    margin-left: 300px;
+    font-weight: 600;
+    font-size: medium;
+    margin-top: 10px;
+
+}
+.roast{
+    margin-left: 40px;
+    width: 95%;
+    height: 600px;
+    margin-top: 40px;
+    margin-right: 40px;
+    background-color:#d9e89a;
+}
+.two{
+    width: 50%;
+    height: 600px;
+    float: left;
+}
+.milano{
+    width: 50%;
+    height: 600px;
+    float: left;
+}
+.header3{
+    text-align: center;
+    padding-top: 70px;
+    font-size: 50px;
+    color:black;
+    font-weight: 600;
+
+}
+.para3{
+    text-align: center;
+    color:black;
+    font-size: 24px;
+    padding-top: 5px;
+    line-height: 1.5;
+
+}
+.ord{
+    color:black;
+    border-radius: 20px;
+    background-color:#d9e89a;
+    border-color:black;
+    width: 115px;
+    height: 35px;
+    margin-left: 300px;
+    font-weight: 600;
+    font-size: medium;
+    border: 1px solid;
+
+
+}
+.cup{
+    margin-left: 40px;
+    width: 95%;
+    height: 600px;
+    margin-top: 40px;
+    margin-right: 40px;
+
+}
+.eye{
+    width: 50%;
+    height: 600px;
+    float: left; 
+    background-color:#d2d655;
+}
+.cake{
+    width: 50%;
+    height: 600px;
+    float: left;
+
+}
+.oddd{
+    color:black;
+    border-radius: 20px;
+    background-color:#d2d655;
+    border-color:black;
+    width: 115px;
+    height: 35px;
+    margin-left: 300px;
+    font-weight: 600;
+    font-size: medium;
+    border: 1px solid;
+
+}
+.fall{
+    width: 95%;
+    height: 420px;
+    margin-top: 40px;
+    margin-left: 40px;
+    margin-right: 40px;
+
+}
+.cup3{
+    width: 50%;
+    height: 420px;
+    float: left;
+
+}
+.per{
+    width: 50%;
+    height: 420px;
+    background-color:#f2f0eb;
+    float: left;
+
+}
+.header4{
+    text-align: center;
+    color:black;
+    padding-top: 70px;
+    font-weight: 600;
+    font-size: 26px;
+    height: auto;
+
+}
+.para4{
+    text-align: center;
+    color:black;
+    font-size: 20px;
+    padding-top: 5px;
+    line-height: 1.5;
+
+}
+.more{
+    color:white;
+    border-radius: 20px;
+    background-color:hsl(164 31% 17%);
+    border-color:hsl(164 31% 17%);
+    width: 120px;
+    height: 35px;
+    margin-left: 300px;
+    font-weight: 600;
+    font-size: medium;
+    border: 1px solid;
+
+}
+.offerpara{
+    width: 100%;
+    height: 370px;
+    padding-top: 30px;
+
+
+}
+.para5{
+    text-align: center;
+    line-height: 1.8;
+    font-size: 16px;
+    color: #000000;
+}
+.hh2{
+    border: 2px solid #eaeaea;
+    margin-top: 30px;
+}
+.ab{
+    width: 95%;
+    margin-left: 40px;
+    margin-right: 40px;
+    height: 430px;
+}
+.about{
+    width: 210px;
+    height: 430px;
+    float: left;
+}
+.careers{
+    width: 210px;
+    height: 430px;
+    float: left;
+}
+.social{
+    width: 210px;
+    height: 430px;
+    float: left;
+}
+.forbs{
+    width: 210px;
+    height: 430px;
+    float: left;
+}
+.op{
+    width: 210px;
+    height: 430px;
+    float: left;
+}
+.hab{
+    font-weight: 400;
+    font-size: larger;
+
+}
+.ull{
+    list-style-type: none;
+    padding: 0;
+    color:rgb(0 0 0 / 58%);
+    display: block;
+    font-size: 17px;
+}
+.hr{
+    width: 95%;
+    border: 1px solid #eaeaea;
+}
+.lii{
+    padding-top: 30px;
+}
+.foot{
+    padding-left: 20px;
+    padding-top: 25px;
+}
+.fa-brands{
+    font-size: 28px;
+    padding-left: 17px;
+    
+}
+.ft{
+    list-style-type: none;
+    padding: 0;
+    color:black;
+    display: block;
+    font-size: 17px;
+}
+.ftt{
+    padding-left: 20px;
+    padding-top: 20px;
+}
+.copy{
+    font-size:16px;
+    padding-left: 20px;
+    padding-top: 15px;
+    color: #707070;
+}
